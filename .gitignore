@@ -1,0 +1,15 @@
+# Downloaded source text (prepare_data.py re-downloads it on demand)
+data/raw/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Generated intermediate for PDF printing
+report.html
