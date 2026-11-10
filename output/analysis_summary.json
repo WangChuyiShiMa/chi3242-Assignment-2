@@ -1,0 +1,9 @@
+{
+  "n_passages": 55,
+  "predicted_gao": 44,
+  "predicted_cao": 11,
+  "mean_p_gao": 0.5709900896202328,
+  "median_p_gao": 0.5736667569537562,
+  "min_p_gao": 0.3762078318159262,
+  "max_p_gao": 0.8016545987310641
+}
